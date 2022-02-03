@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello World, eu sou o Matheus! 😁
+<hr>
+ 💻 <strong>Estudante no curso de desenvolvimento web Full Stack do ProgramadorBR.</strong><br>
+  <br>
+ 🤩 Atualmente estou estudando JavaScript, e participando do Bootcamp da Take Blip Web Developer, pela plataforna Dio, espero breve pretendo ingressar em algum curso superior.
 
-<!--
-**MatheusSanteago/matheussanteago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todo os momentos que tive com a 
+  tecnlogia sempre pude ajudar alguém e o fato de poder colaborar com soluções para a população em geral
+  me deixa fascinado.
+  
+- Tenho o objetivo de compartilhar tudo que estou aprendendo aqui, dicas e feedbacks sempre são bem aceitos :).
 
-Here are some ideas to get you started:
+  <div><br>
+  <a href="https://github.com/MatheusSanteago">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheussanteago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussanteago&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif">
+    
+</div><br>
+  <a href = "mailto:matheussanteago@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-santeago-443016226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
