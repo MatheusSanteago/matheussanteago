@@ -1,6 +1,6 @@
 ### Hello World, eu sou o Matheus! 😁
 <hr>
- 💻 <strong>Estudante no curso de desenvolvimento web Full Stack do ProgramadorBR.</strong><br>
+ 💻 <strong>Estudante no curso de Desenvolvimento web Full Stack do ProgramadorBR.</strong><br>
   <br>
  🤩 Atualmente estou estudando JavaScript, e participando do Bootcamp da Take Blip Web Developer, pela plataforna Dio, espero breve pretendo ingressar em algum curso superior.
 
