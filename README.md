@@ -2,7 +2,7 @@
 <hr>
  💻 <strong>Estudante no curso de Desenvolvimento web Full Stack do ProgramadorBR.</strong><br>
   <br>
- 🤩 Atualmente estou estudando JavaScript,e espero breve pretendo ingressar em algum curso superior.
+ 🤩 Atualmente estou estudando JavaScript,e estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 - 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todo os momentos que tive com a 
   tecnlogia sempre pude ajudar alguém e o fato de poder colaborar com soluções para a população em geral
