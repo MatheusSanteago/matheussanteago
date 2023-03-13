@@ -1,26 +1,12 @@
 ### Hello World, eu sou o Matheus! 😁
 <hr>
- 💻 <strong>Estudante no curso de Desenvolvimento web Full Stack do ProgramadorBR.</strong><br>
-  <br>
- 🤩 Atualmente estou estudando JavaScript,e estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
 
+ 🤩 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
 - 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todo os momentos que tive com a 
   tecnlogia sempre pude ajudar alguém e o fato de poder colaborar com soluções para a população em geral
   me deixa fascinado.
   
 - Tenho o objetivo de compartilhar tudo que estou aprendendo aqui, dicas e feedbacks sempre são bem aceitos :).
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="scss" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-   <br><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="tyoescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <br><br>
-   <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
- 
    
   <img align="right" alt="ms-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif"><hr>
 </div><br>
