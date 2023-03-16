@@ -11,6 +11,7 @@
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <br>
 <img align="right" alt="ms-pic" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif">
 </div>
