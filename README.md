@@ -2,9 +2,8 @@
 <hr>
 
  🤩 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
-- 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todo os momentos que tive com a 
-  tecnlogia sempre pude ajudar alguém e o fato de poder colaborar com soluções para a população em geral
-  me deixa fascinado.
+- 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todos os momentos em que tive contato com 
+  tecnlogia sempre ajudar alguém e o fato de poder colaborar e criar soluções, me deixa fascinado! 
   
 - Tenho o objetivo de compartilhar tudo que estou aprendendo aqui, dicas e feedbacks sempre são bem aceitos :). <br><br>
 
