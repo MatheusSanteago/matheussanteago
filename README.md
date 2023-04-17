@@ -15,6 +15,9 @@
 <img align="right" alt="ms-pic" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif">
 </div>
 <br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussanteago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <a href = "mailto:matheussanteago@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-santeago-443016226/" target="_blank">
