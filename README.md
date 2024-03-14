@@ -28,4 +28,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussanteago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
-<img align="left" alt="ms-pic" height="100" style="border-radius:50px;" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
+<img align="left" alt="ms-pic" height="150" style="border-radius:50px;" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png">
+<img align="left" alt="ms-pic" height="150" style="border-radius:50px;" src="https://templates.images.credential.net/16509948849242752807044385742422.png">
+
