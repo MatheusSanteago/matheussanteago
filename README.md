@@ -1,7 +1,7 @@
 ### Hello World, eu sou o Matheus! 😁
 <hr>
 
- 🤩 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar e sou programador Trainee na Compass UOL.
+ Formmado em Análise e Desenvolvimento de Sistemas na Unicesumar e atualmente atuo como Engenheiro de Dados Trainee na Compass UOL.
 - 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todos os momentos em que tive contato com 
   tecnlogia sempre ajudar alguém e o fato de poder colaborar e criar soluções, me deixa fascinado! 
   
