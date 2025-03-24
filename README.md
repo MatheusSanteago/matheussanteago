@@ -10,7 +10,6 @@
 - Tenho o objetivo de compartilhar tudo que estou aprendendo aqui, dicas e feedbacks sempre são bem aceitos :) <br><br>
 
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="right" alt="ms-pic" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/user-attachments/assets/2f2cbe69-719a-4ebf-8b69-2c68e8aae1b1">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -20,7 +19,6 @@
 <img align="left" alt="ms-pic" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 <br>
-<img align="right" alt="ms-pic" height="100" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif">
 
 </div>
 <br><br>
