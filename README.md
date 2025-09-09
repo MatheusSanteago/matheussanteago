@@ -3,7 +3,6 @@
 
  Formado em Análise e Desenvolvimento de Sistemas na Unicesumar e atualmente atuo como Engenheiro de Dados Trainee na Compass UOL.
 
-- 📚 Atualmente cursando MBA em Engenharia de Dados
 - 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todos os momentos em que tive contato com 
   tecnlogia sempre ajudar alguém e o fato de poder colaborar e criar soluções, me deixa fascinado! 
   
