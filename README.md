@@ -1,13 +1,9 @@
 ### Hello World, eu sou o Matheus! 😁
 <hr>
 
- Formado em Análise e Desenvolvimento de Sistemas na Unicesumar e atualmente atuo como Analytics Engineer na Natura.
-
-- 💬 Sempre fui apaixonado em tecnologia, resolvi entrar neste mundo por que em todos os momentos em que tive contato com 
-  tecnlogia sempre ajudar alguém e o fato de poder colaborar e criar soluções, me deixa fascinado! 
+ Formado em Análise e Desenvolvimento de Sistemas e atualmente atuo como Analytics Engineer na Natura.
+ 
   
-- Tenho o objetivo de compartilhar tudo que estou aprendendo aqui, dicas e feedbacks sempre são bem aceitos :) <br><br>
-
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/user-attachments/assets/2f2cbe69-719a-4ebf-8b69-2c68e8aae1b1">
 <img align="left" alt="ms-pic" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
